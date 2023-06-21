@@ -137,6 +137,8 @@ online, and social classes combining them into one container as needed.. */
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Changed this element to "footer" in the HTML so i updated it here
+in CSS so the properties would still display properly */
 
 footer {
     padding: 30px;
